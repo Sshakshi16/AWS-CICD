@@ -1,6 +1,6 @@
 [
   {
-    "name": "hello-world",
+    "name": "nginxc",
     "imageUri": "590184126408.dkr.ecr.ap-south-1.amazonaws.com/devops"
   }
 ]
